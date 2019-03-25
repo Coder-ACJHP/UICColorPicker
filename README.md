@@ -1,2 +1,2 @@
-# CColorPicker
-Custom color picker as pop-up
+# UICColorPicker
+Custom color picker as pop-up written in Swift 4
